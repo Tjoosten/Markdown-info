@@ -1,0 +1,8 @@
+name:       "Github Markdown Documentation"
+url:        http://tjoosten.github.io/Markdown-info
+repo:       https://github.com/Tjoosten/Markdown-info
+twitter:    https://www.twitter.com/X0rif
+
+markdown:   redcarpet
+permalink:  pretty
+pygments:   true
